@@ -1,0 +1,41 @@
+L’azienda Aerospace Trajectory S.p.A produce apparecchiature, moduli e componenti per le navette shuttle utilizzate nelle esplorazioni extraterrestri e per le stazioni orbitanti.
+A fronte della diffusione nell’utilizzo di sistemi GPS e della conoscenza della tecnologica su cui si basano, Rendezvous progetta di lanciare sul mercato una nuova applicazione particolarmente adatta ad evitare le code e segnalare strade alternative.
+Per completare i test e gli sviluppi, Rendezvous ha in programma un’ambiziosa pipeline di investimenti.
+A fine 2020 Rendezvous presentava i seguenti risultati di Conto Economico:
+- un fatturato di 5 milioni di Euro;
+- altri ricavi per 60 mila Euro;
+- costi per servizi e materie prime pari a 1,4 milioni di Euro;
+- costi del personale così suddivisi: 2 milioni di Euro per salari e stipendi, 500 mila Euro per oneri sociali e 125 mila Euro per accantonamento TFR;
+- ammortamenti delle immobilizzazioni materiali per 350 mila Euro;
+- ammortamenti dei beni immateriali per 30 mila Euro;
+- oneri finanziari per 70 mila Euro;
+- proventi finanziari per 20 mila Euro;
+- l’aliquota fiscale media applicabile è pari al 38%
+
+Si proceda alla redazione del conto economico 2020 e dei conti economici prospettici sino al 2025, nonché alla creazione del rendiconto finanziario per il periodo 2021-2025 (gli Stati Patrimoniali dal 2020 al 2025 sono forniti nel file excel).
+Le ipotesi per le proiezioni di conto economico 2021-2025 sono le seguenti:
+- il fatturato è previsto in aumento del 14% all’anno dal 2021 al 2023, in diminuzione del 1% nel 2024 e in aumento del 8% nel 2025;
+- Gli altri ricavi e proventi si prevedono in aumento del 8% all’anno dal 2021 al 2023 e in aumento del 5% dal 2024 in poi;
+- i costi per servizi e materie prime sono previsti in aumento del 12% nel 2021, del 11% nel 2022, del 10% nel 2023, in diminuzione del 3% nel 2024 e in aumento del 5% nel 2025;
+- i costi per salari e stipendi aumentano del 7% all’anno fino al 2023 e del 3% dal 2024 in poi;
+- gli ammortamenti materiali e immateriali aumentano del 10% nel 2021 e nel 2022 e del 20% dal 2023 in poi;
+- l’azienda ha oneri finanziari per 120 mila euro l’anno. I depositi e altre attività liquide, invece, fruttano 30.000 euro l’anno;
+- Gli accantonamenti al fondo TFR aumentano del 5% all’anno fino al 2025;
+- gli oneri sociali (legati alla gestione del personale) aumentano del 4,5% all’anno fino al 2025;
+- oneri di gestione straordinaria pari a 45.000 Euro nel 2023.
+- l’aliquota media applicabile è pari al 38%.
+
+NB: nella redazione del rendiconto finanziario, si consideri che si prevede che nel 2024 e nel 2025 verranno liquidati 30.000 Euro di TFR per il raggiungimento dell’età pensionabile di alcuni dipendenti.
+Si noti da Stato Patrimoniale 2020 che Rendezvous ha 250 mila Euro di cassa nel 2020.
+
+-Dati per uDCF
+
+risk-free	3.5%
+return-market	5.5%
+B	1.2
+cost of debt	4.5%
+leva finanziaria	60.0%
+tasso crescita (g)	2.0%
+Tax-Rate	38.0%
+
+La PFN da ricavare dagli statement 
