@@ -24,7 +24,7 @@ Il modello prevede per lo Scenario Base una crescita sostenuta dei ricavi core p
 ### Evoluzione dei Ricavi e del Margine Lordo
 Le proiezioni catturano il progressivo efficientamento dei costi industriali (COGS) e la stabilità delle spese di struttura (SG&A), che beneficiano dell'economia di scala tipica dei prodotti digitali.
 
-![Revenues vs Gross Profit](/images/revenues_vs_margins.png)
+![Revenues vs Gross Profit](/images/lineplot_flussi_.png)
 
 ### Sintesi delle Proiezioni Finanziarie (€ Migliaia)
  60.00 € 	 64.80 € 	 69.98 € 	 75.58 € 	 79.36 € 	 83.33 € 
@@ -65,7 +65,7 @@ A causa della forte intensità di CapEx iniziale, i flussi dei primi due anni ri
 * **NPV del Terminal Value:** €15,989.80 
 * **Enterprise Value (EV):** **€16,300.19** 
 
-![DCF Valuation vs Net PFN](/images/dcf_valuation_summary.png)
+![DCF Valuation vs Net PFN](/images/lineplot_ROIC_basecase.png)
 
 ### Dal Valore di Impresa all'Equity Value
 
@@ -87,6 +87,9 @@ In base alle risposte del business case e all'andamento del **Scenario Base**, s
    * **Opzione Equity:** Richiesta ai soci di un aumento di capitale pari ad almeno **€3.1M** per coprire interamente il picco del fabbisogno senza ricorrere a leva finanziaria.
    * **Opzione Debito (Consigliata):** Accensione di un finanziamento bancario a lungo termine con ammortamento a 10 anni e tasso da contrattare. La forte generazione di EBITDA a partire dal 2023 (€2.4M) garantisce un commisurato *Debt Service Coverage Ratio (DSCR)*, rendendo la struttura finanziaria solida e ottimizzando il costo del capitale.
 
+![DCF Valuation vs Net PFN](/images/barplot_indici_reddittività_basecase.png)
+
+![DCF Valuation vs Net PFN](/images/lineplot_indici_sostenibilità_basecase.png)
 ---
 
 ## Note Metodologiche e Limiti dello Studio (Project Scope)
